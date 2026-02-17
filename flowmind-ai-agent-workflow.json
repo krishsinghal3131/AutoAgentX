@@ -1,0 +1,23 @@
+# FlowMind AI Agent 🚀
+
+An intelligent AI automation agent built using n8n and Google Gemini API.
+
+## 🔥 Features
+- AI Agent powered by Gemini 1.5 Flash
+- Real-time web search using SerpAPI
+- Calculator tool integration
+- Fully free stack (No OpenAI required)
+
+## 🛠 Tech Stack
+- n8n (Workflow Automation)
+- Google Gemini API
+- SerpAPI
+- REST-based Tool Calls
+
+## 🚀 How to Use
+1. Import workflow.json into n8n
+2. Add your Gemini API key
+3. Add your SerpAPI key
+4. Execute workflow
+
+Built as part of AI + Automation learning journey.
